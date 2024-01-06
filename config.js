@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['16362439088', 'kinfux digital', true],
-  ['254110377776', 'kinflux digital', true], 
-  ['556199740980'] 
+  ['2348123035565', 'Timothy', true],
+  ['2349035391852', 'The Honored One', true], 
+  [''] 
 ] //Number of owners
 
-global.mods = ['16362439088','254110377776','556199740980'] 
-global.prems = ['22589747147', '254110377776', '556199740980']
-global.allowed = ['556199740980', '254110377776', '13374230362']
+global.mods = ['2349035391853','2348123035565'] 
+global.prems = ['2349035391852','2348123035565']
+global.allowed = ['2349035391852', '254110377776', '2348123035565']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,19 +48,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'kinflux bot god'
+global.botname = 'Tims Bot 😉'
 global.premium = 'true'
-global.packname = 'kinflux ┃ᴮᴼᵀ' 
-global.author = 'kinflux digital' 
+global.packname = 'Timo' 
+global.author = 'TheHonoredOne' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28\n' 
-global.dygp = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.dygp = 'https://chat.whatsapp.com/KHsXz1u7plA9EfWUquYtlc'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
-global.fgyt = 'https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28'
+global.fgyt = 'https://chat.whatsapp.com/KHsXz1u7plA9EfWUquYtlc'
 global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Tims Bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
